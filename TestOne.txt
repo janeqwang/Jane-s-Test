@@ -10,4 +10,9 @@ Change in feature branch
 Starting from this line, any change should only be in dev or rel, not master.
 First dev change.
 
+the above 2 lines made it into master by mistake.
+
+I want to merge this from dev to rel, not master.
+
 This change is made in master, should not be in dev or rel before merging down.
+Now that the conflict is resoved, this change should be in dev.
