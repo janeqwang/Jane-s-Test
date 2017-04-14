@@ -6,3 +6,6 @@ Another local line
 Added 4/11
 This line is added on the website.
 Change in feature branch
+
+Starting from this line, any change should only be in dev or rel, not master.
+First dev change.
