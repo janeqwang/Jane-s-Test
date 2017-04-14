@@ -9,3 +9,7 @@ Change in feature branch
 
 Starting from this line, any change should only be in dev or rel, not master.
 First dev change.
+
+the above 2 lines made it into master by mistake.
+
+I want to merge this from dev to rel, not master.
